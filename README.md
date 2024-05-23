@@ -39,3 +39,12 @@ The app should now be up and running at http://localhost:3000 🚀
 ✅ ExpressJs<br/>
 ✅ MongoDB<br/>
 
+##Site
+<img width="1470" alt="image" src="https://github.com/keyuraval/FileZap/assets/96626624/38f0ea84-1aa2-4a39-96b9-66a78747fdce">
+
+After Uploading file link will be genrated
+<img width="1461" alt="image" src="https://github.com/keyuraval/FileZap/assets/96626624/6489ae7d-8602-4489-a219-cdba672885e3">
+
+
+
+
